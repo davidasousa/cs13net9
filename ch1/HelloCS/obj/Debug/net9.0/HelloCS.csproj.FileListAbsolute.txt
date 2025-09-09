@@ -1,0 +1,14 @@
+C:\VSCode\cs13net9\ch1\HelloCS\bin\Debug\net9.0\HelloCS.exe
+C:\VSCode\cs13net9\ch1\HelloCS\bin\Debug\net9.0\HelloCS.deps.json
+C:\VSCode\cs13net9\ch1\HelloCS\bin\Debug\net9.0\HelloCS.runtimeconfig.json
+C:\VSCode\cs13net9\ch1\HelloCS\bin\Debug\net9.0\HelloCS.dll
+C:\VSCode\cs13net9\ch1\HelloCS\bin\Debug\net9.0\HelloCS.pdb
+C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\HelloCS.AssemblyInfoInputs.cache
+C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\HelloCS.AssemblyInfo.cs
+C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\HelloCS.dll
+C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\refint\HelloCS.dll
+C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\HelloCS.pdb
+C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\HelloCS.genruntimeconfig.cache
+C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\ref\HelloCS.dll

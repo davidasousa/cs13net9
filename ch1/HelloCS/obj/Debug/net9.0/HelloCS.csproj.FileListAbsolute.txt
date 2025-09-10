@@ -12,3 +12,4 @@ C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\refint\HelloCS.dll
 C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\HelloCS.pdb
 C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\HelloCS.genruntimeconfig.cache
 C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\ref\HelloCS.dll
+C:\VSCode\cs13net9\ch1\HelloCS\obj\Debug\net9.0\HelloCS.sourcelink.json
